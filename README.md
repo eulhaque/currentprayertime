@@ -6,7 +6,7 @@ To add the module do the following which also shows the configurable values:
 
 ````javascript
 {
-    module: 'MMM-Advent',
+    module: 'currentprayertime',
     position: 'bottom_center', // This can be any of the regions, best results in center regions
     config: {
         updateInterval: 10 * 60 * 1000, // every 10 mins
